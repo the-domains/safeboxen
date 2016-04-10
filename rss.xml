@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Safeboxen]]></title>
+        <description><![CDATA[Safeboxen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 20:53:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Social networking forum reddit on Thursday removed a section from its site used to tacitly inform users it had never received a certain type of U.S. government surveillance request, suggesting the platform is now being asked to hand over customer data under a secretive law enforcement authority.</p>]]></description>
+            <link>undefinedsocial-networking-forum-reddit-on-thursday-removed-a-section/index.html</link>
+            <guid isPermaLink="false">c8299880-b3a9-4112-af82-0ff6d987bf30</guid>
+            <pubDate>Sun, 10 Apr 2016 20:52:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
