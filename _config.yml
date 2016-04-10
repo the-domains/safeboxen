@@ -1,0 +1,28 @@
+name: Safeboxen
+favicon: null
+layout_spectrum: 0.06810128479264677
+typography_spectrum: 0.9845582540147007
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6013785642571747
+  lightness: 0.8662325611803681
+  saturation: 0.22376090241596103
+  rhythmicContrast: 0.5388570080976933
+purpose: []
