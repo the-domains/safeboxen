@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Safeboxen]]></title>
         <description><![CDATA[Safeboxen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/safeboxen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 20:53:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 21:03:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/safeboxen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://theintercept.com/2016/04/04/a-key-similarity-between-snowden-leak-and-panamapapers-scandal-is-whats-been-legalized/</p>]]></description>
+            <link>https://thegrid.ai/safeboxen/httpstheinterceptcom20160404a-key-similarity-between/index.html</link>
+            <guid isPermaLink="false">28f8a959-7668-47c9-b43d-fe5bf1297c46</guid>
+            <pubDate>Sun, 10 Apr 2016 21:03:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Social networking forum reddit on Thursday removed a section from its site used to tacitly inform users it had never received a certain type of U.S. government surveillance request, suggesting the platform is now being asked to hand over customer data under a secretive law enforcement authority.</p>]]></description>
-            <link>undefinedsocial-networking-forum-reddit-on-thursday-removed-a-section/index.html</link>
+            <link>https://thegrid.ai/safeboxen/social-networking-forum-reddit-on-thursday-removed-a-section/index.html</link>
             <guid isPermaLink="false">c8299880-b3a9-4112-af82-0ff6d987bf30</guid>
             <pubDate>Sun, 10 Apr 2016 20:52:51 GMT</pubDate>
         </item>
